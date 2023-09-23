@@ -1,6 +1,6 @@
 # Cardiovascular Disease Report
 
-This project is inspired by my year 2 university project proposal titled “The effectiveness of docosahexaenoic acid at reducing inflammation in patients with cardiovascular disease”. I downloaded the dataset off of [Kaggle](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset). The data has already been cleaned and processed, however I wanted to process the data using SQL queries to create a dashboard of data figures.
+This project is inspired by my year 2 university project proposal titled **“The effectiveness of docosahexaenoic acid at reducing inflammation in patients with cardiovascular disease”**. I downloaded the dataset off of [Kaggle](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset). The data has already been cleaned and processed, however, I wanted to use SQL and Tableau to create a dashboard of data figures.
 
 ## Table of Contents
 
@@ -19,8 +19,8 @@ By the end of the tutorial, you should be able to: extract, transform and load d
 
 ### Screenshot
 
-![Home Page Screenshot](screenshots/)
-![Best and Worst Sales Screenshot](screenshots/)
+![Screenshot One](screenshots/)
+![Screenshot Two](screenshots/)
 
 ### Links
 
